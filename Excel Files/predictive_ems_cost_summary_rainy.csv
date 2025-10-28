@@ -1,0 +1,2 @@
+total_pv_used_kWh,total_batt_discharge_kWh,total_diesel_energy_kWh,total_diesel_runtime_h,Cost PV (ZAR),Cost Battery (ZAR),Cost Diesel Fuel (ZAR),Cost Runtime (ZAR),Total operational cost (ZAR)
+31.55917956,42.82048808,42.9689245,4,4.733876934,77.07687854,300.7824715,400,782.593227

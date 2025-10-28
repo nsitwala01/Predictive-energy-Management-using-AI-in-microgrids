@@ -1,0 +1,2 @@
+total_pv_used_kWh,total_batt_discharge_kWh,total_diesel_energy_kWh,total_diesel_runtime_h,cost_pv_zar,cost_batt_zar,cost_diesel_fuel_zar,cost_runtime_zar,total_operational_cost_zar
+31.559179556993076,42.820488080000004,42.9689245,4.0,4.733876933548961,77.07687854400001,300.7824715,400.0,782.593226977549
